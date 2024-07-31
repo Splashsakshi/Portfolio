@@ -5,7 +5,7 @@
 </div>
 
 <div class="col-sm-6">
-    <p>bhdjcbsdc</p>
+    <h2>bhdjcbsdc</h2>
 </div>
 
 
