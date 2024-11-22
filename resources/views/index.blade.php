@@ -94,7 +94,7 @@
 	<!--================ Start Header Area =================-->
 	<div class="running-text">
 		<marquee direction="right" class="text-white">
-			<em><h1>welcome to my journey </h1></em> 
+			<em><h1>welcome to my journey of life</h1></em> 
 			</marquee>
 	</div>
 	<header class="header_area">
